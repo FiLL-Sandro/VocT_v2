@@ -1,0 +1,8 @@
+*.o
+*.so
+*.so.*
+
+/out
+
+/resources
+/test
